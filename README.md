@@ -1,4 +1,4 @@
-## Advent Of Code - My Solutions
+## Advent Of Code 2025 - My Solutions
 
 This repository contains my solutions for the Advent Of Code 2025 puzzles, updated day by day throughout the month.
 I made it public for accountability, motivation, and fun!
